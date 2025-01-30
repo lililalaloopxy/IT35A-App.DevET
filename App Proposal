@@ -1,1 +1,38 @@
+Goals : Students output must align to the international agenda of the United Nations, the 2030  Sustainable Development Goals,
+all of the outputs must be in accordance with the 17 SDGs in order to curate outputs and contribute to the open source development community.
+Where it clearly state the goal of an app and how it contributes to the SDGs.		
 
+Roles : You are a mobile/web app developer.
+
+Audience : Community 
+
+Situation : The app addresses how the community on a village will do once they need a garbage truck to go to their homes
+especially when needed so that they will not put their trash bags out of their homes resulting to straydogs biting the trash bags and in shambles on the streets.
+
+"Products/Performance/Output: Students create application proposals that are not only technically sound but also socially responsible,
+ethically aligned, and impactful in addressing global challenges. In combination with the 17 SDGs, where you provide innovation to
+various disciplines not just limited to the filed of computing and information technology.
+
+Application Proposal : Smart Waste Pickup
+
+Provide a concise summary of your proposal, including:
+1. Objective: 
+This is to provide an on-demand waste collection system for villages and this is to improve sanitation and waste management. 
+2. Key SDGs Targeted:
+SDG 11 - Sustainable Cities and Communities to have improved waste management systems.
+SDG 3 - Good Health and Well-being for cleaner environment, less disease risk.
+SDG 9 - Industry, Innovation, and Infrastructure for the smart waste management technology.
+3. Key feautures:
+On-Demand Waste Pickup: Residents request garbage collection via a mobile app.
+Smart Scheduling: Optimized routes for garbage trucks to save fuel and time. 
+GPS Tracking: Monitor waste trucks and estimated arrival times.
+Feedback System: Residents can rate and report issues with waste collection.
+4. Technical Architecture:
+5. Research and Evidence:
+Link Source is : https://pmc.ncbi.nlm.nih.gov/articles/PMC9622352/.
+Literature Review : Circular Economy in Waste Management: Implementing circular economy principles can help achieve SDGs by reducing waste generation and promoting recycling infrastructure2.
+External Reference :  Circular Economy Approach in Solid Waste Management
+This supports the development of the application and its alignment with SDGs including;
+SDG 11 - Sustainable Cities and Communities to have improved waste management systems. 
+SDG 3 - Good Health and Well-being for cleaner environment, less disease risk.
+SDG 9 - Industry, Innovation, and Infrastructure for the smart waste management technology.
